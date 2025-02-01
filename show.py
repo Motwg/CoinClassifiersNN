@@ -1,5 +1,3 @@
-import os
-
 from matplotlib import pyplot as plt
 from torchvision import transforms as t
 
